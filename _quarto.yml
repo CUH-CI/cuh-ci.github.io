@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "."
+  title: "CUH-Cyberinfrastructure"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Overview
+      - href: use-cases.qmd
+        text: Use Cases
+      - href: tools.qmd
+        text: CI Tools
+      - href: examples.qmd
+        text: Examples by Domain
+      - href: get-started.qmd
+        text: Get Started
+      - href: about.qmd
+        text: Contact
 
 format:
   html:
