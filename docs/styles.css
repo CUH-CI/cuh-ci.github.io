@@ -1,1 +1,37 @@
 /* css styles */
+
+/* Chaminade Brand Colors */
+:root {
+  --chaminade-blue: #0054A5;
+  --chaminade-silver:#D9D9D6;
+  --chaminade-black:#1a1a1a;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--chaminade-blue) !important;
+}
+
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: var(--chaminade-silver) !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--chaminade-blue);
+}
+
+/* Buttons/links accent */
+a {
+  color: var(--chaminade-blue);
+}
+
+/* Footer */
+.nav-footer {
+  background-color: var(--chaminade-blue);
+  color: white;
+}
