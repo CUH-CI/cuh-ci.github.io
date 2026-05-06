@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Overview
       - href: use-cases.qmd
-        text: Use Cases
+        text: Applications
       - href: tools.qmd
         text: CI Tools
       - href: examples.qmd

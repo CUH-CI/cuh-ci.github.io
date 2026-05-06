@@ -95,6 +95,27 @@
     "href": "index.html",
     "title": "CUH-CI",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Cyberinfrastructure (CI) is a system of people and technologies brought together to perform computational analyses of big data in order to achieve breakthrough science and solve large-scale problems.\nIn other words, CI involves high-performance computing (HPC), supercomputers, massive data storage and data management systems, specialized applications for modeling, simulation, and analysis, and experts and support staff who help develop and operate these systems."
+  },
+  {
+    "objectID": "index.html#what-is-cyberinfrastructure",
+    "href": "index.html#what-is-cyberinfrastructure",
+    "title": "CUH-CI",
+    "section": "",
+    "text": "Cyberinfrastructure (CI) is a system of people and technologies brought together to perform computational analyses of big data in order to achieve breakthrough science and solve large-scale problems.\nIn other words, CI involves high-performance computing (HPC), supercomputers, massive data storage and data management systems, specialized applications for modeling, simulation, and analysis, and experts and support staff who help develop and operate these systems."
+  },
+  {
+    "objectID": "index.html#who-has-access-to-these-resources",
+    "href": "index.html#who-has-access-to-these-resources",
+    "title": "CUH-CI",
+    "section": "Who has access to these resources?",
+    "text": "Who has access to these resources?\nThe CI resources discussed in this site are available to U.S. researchers, educators, students, and international collaborators in accordance with NSF policies."
+  },
+  {
+    "objectID": "index.html#about-chaminade-univerisity",
+    "href": "index.html#about-chaminade-univerisity",
+    "title": "CUH-CI",
+    "section": "About Chaminade Univerisity",
+    "text": "About Chaminade Univerisity\nChaminade University of Honolulu is part of the Cyberinfrastructure Pacific Professionals (CIPP) in partnership with University of Hawaii, University of Guam, and Texas Advanced Computing Center. CIPP is a collaborative initiative dedication to strengthening CI capabilities across the Hawaii/Guam and US Affiliated Pacific Islands region."
   }
 ]
