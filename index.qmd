@@ -12,6 +12,10 @@ In other words, CI involves high-performance computing (HPC), supercomputers, ma
 
 The CI resources discussed in this site are available to U.S. researchers, educators, students, and international collaborators in accordance with NSF policies.
 
+## Who are these resources for?
+
+**If your research or class projects require large amounts of memory storage or computing power - CI is the answer for you!**
+
 ## About Chaminade University
 
 Chaminade University of Honolulu is part of the Cyberinfrastructure Pacific Professionals (CIPP) in partnership with University of Hawaii, University of Guam, and Texas Advanced Computing Center. CIPP is a collaborative initiative dedication to strengthening CI capabilities across the Hawaii/Guam and US Affiliated Pacific Islands region.
