@@ -4,23 +4,29 @@ format: html
 editor: visual
 ---
 
-## Quarto
+If you're still unsure if these resources are right for you or how to use them, we have facilitation support available. 
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Steps to Get Started
 
-## Running Code
+### Set up an initial consultation meeting
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+To schedule an initial consultation meeting, visit this [link](https://calendly.com/victoria-delacruz-chaminade/30min?month=2026-05). 
 
-```{r}
-1 + 1
-```
+We ask that you prepare the following prior to the initial meeting:
+  - Project/research purpose
+  - # of participants in possible workshop
+  - Current research/teaching methods and tools
+  
 
-You can add options to executable code like this
+### Schedule a workshop for you or your classroom
 
-```{r}
-#| echo: false
-2 * 2
-```
+After the initial consultation meeting, we'll collaborate on workshop or lab material for you and your class to use. From there, we can schedule a time for us to come and run through the material. 
 
-The `echo: false` option disables the printing of code (only output is displayed).
+For individual or group researchers, we'll schedule virtual or in-person training sessions to help you best use these resources. 
+
+*Please provide us 2 weeks lead time to prepare classroom workshop materials.*
+
+
+### Review documentation
+
+Check out this resource for more technical and detailed information on using some of the CI tools. 

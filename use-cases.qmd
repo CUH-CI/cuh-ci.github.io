@@ -1,26 +1,21 @@
 ---
-title: "Use Cases"
+title: "Applications"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Research Projects
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+*How can you use cyberinfrastructure resources to escalate your research?*
 
-## Running Code
+### Use Case #1
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+### Use Case #2
 
-```{r}
-1 + 1
-```
+## Classroom Use
 
-You can add options to executable code like this
+*How can cyberinfrastructure be applied in the classroom?*
 
-```{r}
-#| echo: false
-2 * 2
-```
+### Use Case #1
+### Use Case #2
 
-The `echo: false` option disables the printing of code (only output is displayed).

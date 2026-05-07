@@ -9,113 +9,113 @@
   {
     "objectID": "use-cases.html",
     "href": "use-cases.html",
-    "title": "Use Cases",
+    "title": "Applications",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "How can you use cyberinfrastructure resources to escalate your research?"
   },
   {
-    "objectID": "use-cases.html#quarto",
-    "href": "use-cases.html#quarto",
-    "title": "Use Cases",
+    "objectID": "use-cases.html#research-projects",
+    "href": "use-cases.html#research-projects",
+    "title": "Applications",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "How can you use cyberinfrastructure resources to escalate your research?"
   },
   {
-    "objectID": "use-cases.html#running-code",
-    "href": "use-cases.html#running-code",
-    "title": "Use Cases",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "use-cases.html#classroom-use",
+    "href": "use-cases.html#classroom-use",
+    "title": "Applications",
+    "section": "Classroom Use",
+    "text": "Classroom Use\nHow can cyberinfrastructure be applied in the classroom?\n\nUse Case #1\n\n\nUse Case #2"
   },
   {
     "objectID": "get-started.html",
     "href": "get-started.html",
     "title": "Get Started",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "If you’re still unsure if these resources are right for you or how to use them, we have facilitation support available."
   },
   {
-    "objectID": "get-started.html#quarto",
-    "href": "get-started.html#quarto",
+    "objectID": "get-started.html#steps-to-get-started",
+    "href": "get-started.html#steps-to-get-started",
     "title": "Get Started",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "section": "Steps to Get Started",
+    "text": "Steps to Get Started\n\nSet up an initial consultation meeting\nTo schedule an initial consultation meeting, visit this link.\nWe ask that you prepare the following prior to the initial meeting: - Project/research purpose - # of participants in possible workshop - Current research/teaching methods and tools\n\n\nSchedule a workshop for you or your classroom\nAfter the initial consultation meeting, we’ll collaborate on workshop or lab material for you and your class to use. From there, we can schedule a time for us to come and run through the material.\nFor individual or group researchers, we’ll schedule virtual or in-person training sessions to help you best use these resources.\nPlease provide us 2 weeks lead time to prepare classroom workshop materials.\n\n\nReview documentation\nCheck out this resource for more technical and detailed information on using some of the CI tools."
   },
   {
-    "objectID": "get-started.html#running-code",
-    "href": "get-started.html#running-code",
-    "title": "Get Started",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "examples.html",
-    "href": "examples.html",
+    "objectID": "examples.html#chemistry",
+    "href": "examples.html#chemistry",
     "title": "Examples by Domain",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "section": "Chemistry",
+    "text": "Chemistry"
   },
   {
-    "objectID": "examples.html#quarto",
-    "href": "examples.html#quarto",
+    "objectID": "examples.html#data-science",
+    "href": "examples.html#data-science",
     "title": "Examples by Domain",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "section": "Data Science",
+    "text": "Data Science"
   },
   {
-    "objectID": "examples.html#running-code",
-    "href": "examples.html#running-code",
+    "objectID": "examples.html#mathematics",
+    "href": "examples.html#mathematics",
     "title": "Examples by Domain",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "section": "Mathematics",
+    "text": "Mathematics"
   },
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "CI Tools",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "examples.html#humanities",
+    "href": "examples.html#humanities",
+    "title": "Examples by Domain",
+    "section": "Humanities",
+    "text": "Humanities"
   },
   {
-    "objectID": "tools.html#quarto",
-    "href": "tools.html#quarto",
-    "title": "CI Tools",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "examples.html#more-examples",
+    "href": "examples.html#more-examples",
+    "title": "Examples by Domain",
+    "section": "More Examples",
+    "text": "More Examples"
   },
   {
-    "objectID": "tools.html#running-code",
-    "href": "tools.html#running-code",
+    "objectID": "tools.html#nairr",
+    "href": "tools.html#nairr",
     "title": "CI Tools",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "section": "NAIRR",
+    "text": "NAIRR"
+  },
+  {
+    "objectID": "tools.html#what-tools-are-best-for-you",
+    "href": "tools.html#what-tools-are-best-for-you",
+    "title": "CI Tools",
+    "section": "What tools are best for you?",
+    "text": "What tools are best for you?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CUH-CI",
+    "title": "Research Cyberinfrastructure at Chaminade University",
     "section": "",
     "text": "Cyberinfrastructure (CI) is a system of people and technologies brought together to perform computational analyses of big data in order to achieve breakthrough science and solve large-scale problems.\nIn other words, CI involves high-performance computing (HPC), supercomputers, massive data storage and data management systems, specialized applications for modeling, simulation, and analysis, and experts and support staff who help develop and operate these systems."
   },
   {
     "objectID": "index.html#what-is-cyberinfrastructure",
     "href": "index.html#what-is-cyberinfrastructure",
-    "title": "CUH-CI",
+    "title": "Research Cyberinfrastructure at Chaminade University",
     "section": "",
     "text": "Cyberinfrastructure (CI) is a system of people and technologies brought together to perform computational analyses of big data in order to achieve breakthrough science and solve large-scale problems.\nIn other words, CI involves high-performance computing (HPC), supercomputers, massive data storage and data management systems, specialized applications for modeling, simulation, and analysis, and experts and support staff who help develop and operate these systems."
   },
   {
     "objectID": "index.html#who-has-access-to-these-resources",
     "href": "index.html#who-has-access-to-these-resources",
-    "title": "CUH-CI",
+    "title": "Research Cyberinfrastructure at Chaminade University",
     "section": "Who has access to these resources?",
     "text": "Who has access to these resources?\nThe CI resources discussed in this site are available to U.S. researchers, educators, students, and international collaborators in accordance with NSF policies."
   },
   {
-    "objectID": "index.html#about-chaminade-univerisity",
-    "href": "index.html#about-chaminade-univerisity",
-    "title": "CUH-CI",
-    "section": "About Chaminade Univerisity",
-    "text": "About Chaminade Univerisity\nChaminade University of Honolulu is part of the Cyberinfrastructure Pacific Professionals (CIPP) in partnership with University of Hawaii, University of Guam, and Texas Advanced Computing Center. CIPP is a collaborative initiative dedication to strengthening CI capabilities across the Hawaii/Guam and US Affiliated Pacific Islands region."
+    "objectID": "index.html#about-chaminade-university",
+    "href": "index.html#about-chaminade-university",
+    "title": "Research Cyberinfrastructure at Chaminade University",
+    "section": "About Chaminade University",
+    "text": "About Chaminade University\nChaminade University of Honolulu is part of the Cyberinfrastructure Pacific Professionals (CIPP) in partnership with University of Hawaii, University of Guam, and Texas Advanced Computing Center. CIPP is a collaborative initiative dedication to strengthening CI capabilities across the Hawaii/Guam and US Affiliated Pacific Islands region."
   }
 ]
