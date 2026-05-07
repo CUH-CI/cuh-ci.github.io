@@ -28,15 +28,23 @@ Maunalua Fishpond Heritage Center Dashboard
 
 The Maunalua Fishpond Heritage Center Dashboard is an application created to monitor the variables of two fishponds, Kanewai and Kalauhaihai, in Hawaii Kai. The conditions of the ponds' temperature, salinity, pH, and oxygen will be shown to users for education. We have used supercomputing resources to host this application on a Jetstream2 server in hopes to increase the performance of the dashboard.
 
+![fishpond app](images/maunaloa-app.png)
+
 ## Classroom Use
 
 *How can cyberinfrastructure be applied in the classroom?*
 
-- **Give students access to real research tools** - Instead of simplified software, students can work with the same powerful platforms and datasets that professional researchers use, making learning more relevant and hands-on.
-- **Enable data-driven projects** - Students can collect, store, and analyze real-world data for class projects - from climate trends to social patterns - building practical skills employers actually want.
-- **Support collaborative assignments** - Cloud-based CI tools let students work together across different locations, devices, and time zones, mirroring how modern research teams actually operate.
-- **Bring simulations into the curriculum** - Teachers can use CI-powered simulations to visually demonstrate complex concepts - like molecular structures, ecosystem changes, or engineering stress tests - making abstract ideas click.
-- **Prepare students for research careers** - Early exposure to supercomputing, data management, and scientific workflows gives students a competitive edge when applying for internships, graduate programs, or research positions.
+-   **Give students access to real research tools** - Instead of simplified software, students can work with the same powerful platforms and datasets that professional researchers use, making learning more relevant and hands-on.
+
+-   **Enable data-driven projects** - Students can collect, store, and analyze real-world data for class projects - from climate trends to social patterns - building practical skills employers actually want.
+
+-   **Support collaborative assignments** - Cloud-based CI tools let students work together across different locations, devices, and time zones, mirroring how modern research teams actually operate.
+
+-   **Bring simulations into the curriculum** - Teachers can use CI-powered simulations to visually demonstrate complex concepts - like molecular structures, ecosystem changes, or engineering stress tests - making abstract ideas click.
+
+-   **Prepare students for research careers** - Early exposure to supercomputing, data management, and scientific workflows gives students a competitive edge when applying for internships, graduate programs, or research positions.
+
+-   something about creating labs that would normally require large memory or compute power...
 
 ### Use Case #1
 
